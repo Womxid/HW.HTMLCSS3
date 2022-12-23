@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    margin-top: 40px
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header_menu {
+    padding: 40px;
+
+
+}
+
+.menu_link {
+    margin: 10px;
+}
+
+.button_box {
+    padding: 40px 0px 0px 0px;
+}
+
+.orange_button {
+    margin: 10px;
+}
+
+.footer {
+    margin: 40px
+}
